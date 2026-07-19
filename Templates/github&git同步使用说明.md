@@ -8,17 +8,10 @@
  >2.下载[obdidian官网](https://obsidian.md/download)))和安装obsidian软件。
  >3.注册和登录github([GitHub](https://github.com/))
 
-**github**
-**第一步：配置 Templater(关闭安全模式)**
+### 1.从github/gitee仓库推入本地电脑
 
-1. 设置 → Templater → 模板文件夹路径，填入各分类文件夹（或统一放入一个 `Templates` 文件夹）
-2. 开启「触发 Templater 在新文件创建时」
-3. 之后新建笔记时，使用命令面板（`Ctrl+P`）→ `Templater: 从模板创建新笔记`
-![[截图_17750059227264.png]]
-![[截图_17750051724759.png]]
-![[截图_17750052019293.png]]
-![[截图_17750052275833.png]]
-![[截图_17750052424850.png]]
+ **github：cmd：git clone https://github.com/SuiFengPiaoLa/MyNote
+### 从github仓库推入本地电脑
 
 **第二步：配置 Dataview**
 
