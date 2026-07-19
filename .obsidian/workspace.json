@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/06 - 书籍/6.2 - 文献笔记.md",
+                "file": "Templates/使用说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 - 文献笔记"
+              "title": "使用说明"
             }
           }
         ],
@@ -196,10 +196,10 @@
   },
   "active": "4167c8b76f9e0d02",
   "lastOpenFiles": [
-    "Templates/06 - 书籍/6.1 - 书籍.md",
     "Templates/06 - 书籍/6.2 - 文献笔记.md",
-    "Templates/27 - 灵感/27.1 - 灵感.md",
     "未命名.canvas",
+    "Templates/06 - 书籍/6.1 - 书籍.md",
+    "Templates/27 - 灵感/27.1 - 灵感.md",
     "未命名 1.base",
     "未命名.base",
     "Templates/12 - 联系/12.1 - 联系方式.md",
@@ -236,7 +236,6 @@
     "Templates/18 - 地理/18.3 - 位置.md",
     "Templates/18 - 地理/18.2 - 城市.md",
     "Templates/18 - 地理/18.1 - 国家.md",
-    "Templates/16 - 投资/16.1 - 股票.md",
-    "Templates/15 - 公司/15.4 - OKR.md"
+    "Templates/16 - 投资/16.1 - 股票.md"
   ]
 }
