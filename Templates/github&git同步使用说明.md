@@ -1,10 +1,13 @@
 
 ---
 
-## 一、github
+## 一、obsidian同步到github
 
 > [!info] 前置条件
-> 本模板库依赖社区插件，请确保以下插件已在 设置 → 第三方插件 中启用。
+ >1.下载[git官网]([Git](https://git-scm.com/))和安装git。
+ >2.xia
+ >2.注册和登录github
+ 
 
 **第一步：配置 Templater(关闭安全模式)**
 
