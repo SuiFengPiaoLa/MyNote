@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/12 - 联系/12.1 - 联系方式.md",
+                "file": "Templates/06 - 书籍/6.2 - 文献笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.1 - 联系方式"
+              "title": "6.2 - 文献笔记"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/12 - 联系/12.1 - 联系方式.md",
+                "file": "未命名.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "12.1 - 联系方式 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -163,8 +163,19 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "0da353f32de22726",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -179,18 +190,24 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "4167c8b76f9e0d02",
   "lastOpenFiles": [
+    "Templates/06 - 书籍/6.1 - 书籍.md",
+    "Templates/06 - 书籍/6.2 - 文献笔记.md",
+    "Templates/27 - 灵感/27.1 - 灵感.md",
+    "未命名.canvas",
+    "未命名 1.base",
+    "未命名.base",
+    "Templates/12 - 联系/12.1 - 联系方式.md",
     "Templates/15 - 公司/15.1 - 公司.md",
     "Templates/17 - 单词词典/17.1 - 单词词典.md",
-    "Templates/06 - 书籍/6.1 - 书籍.md",
     "Templates/05 - 决策制定/5.1 - 决策制定.md",
     "Templates/02 - 列表/2.1 - 列表.md",
     "Templates/19 - 索引/99.1 - 索引.md",
-    "Templates/27 - 灵感/27.1 - 灵感.md",
     "Templates/21 - 文章/21.1 - 文章.md",
     "我的生活",
     "我的工作",
@@ -210,9 +227,7 @@
     "Templates/27 - 灵感",
     "Templates/26 - 问题解决/26.2 - 5Why根因分析模板.md",
     "Templates/26 - 问题解决/26.1 - 问题解决.md",
-    "Templates/26 - 问题解决",
     "Templates/25 - 旅行/25.1 - 旅行.md",
-    "Templates/25 - 旅行",
     "Templates/24 - 财务/24.1 - 月度财务.md",
     "Templates/23 - 健康/23.1 - 健康记录.md",
     "Templates/22 - 播客/22.1 - 播客.md",
@@ -222,8 +237,6 @@
     "Templates/18 - 地理/18.2 - 城市.md",
     "Templates/18 - 地理/18.1 - 国家.md",
     "Templates/16 - 投资/16.1 - 股票.md",
-    "Templates/15 - 公司/15.4 - OKR.md",
-    "Templates/15 - 公司/15.3 - 部门.md",
-    "Templates/15 - 公司/15.2 - 公司_V2.md"
+    "Templates/15 - 公司/15.4 - OKR.md"
   ]
 }
