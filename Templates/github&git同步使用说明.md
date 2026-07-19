@@ -1,11 +1,11 @@
 
 ---
 
-## 一、obsidian同步到github
+## 一、obsidian同步到github[教程]([Obsidian文件同步方案：Git - 彻底告别文件冲突和丢失_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JUtuzUECZ/?spm_id_from=333.337.search-card.all.click))
 
 > [!info] 前置条件
- >1.下载[git官网]([Git](https://git-scm.com/))和安装git。
- >2.下载[obdidian官网]([Git](https://git-scm.com/))和安装obsidian软件。
+ >1.下载[git官网](https://git-scm.com/)和安装git。
+ >2.下载[obdidian官网](https://obsidian.md/download)))和安装obsidian软件。
  >3.注册和登录github([GitHub](https://github.com/))
 
 
@@ -33,25 +33,25 @@
 
 ---
 
-## 二、插件说明
+## 二、obsidian同步到gitee
 
-| 插件 | 作用 | 配合模板 |
-| ---- | ---- | -------- |
-| Templater | 模板引擎，处理 `<% %>` 语法自动填入日期等 | 所有模板 |
-| Dataview | 将笔记当数据库查询，生成动态列表/表格 | 概念、文章、项目等含 `dataview` 块的模板 |
-| Tasks | 跨笔记管理任务，支持截止日期、优先级 | 日志、项目、旅行模板中的 `- [ ]` 任务 |
-| Calendar | 日历视图，点击日期快速创建/跳转每日笔记 | 01-日志 分类 |
-| Excalidraw | 手绘白板，可嵌入笔记 | 项目、概念模板中用 `![[图.excalidraw]]` 嵌入 |
-| obsidian-git | 自动备份 vault 到 Git 仓库 | 全局，无需手动操作 |
-| Table Editor | 表格可视化编辑，Tab 键跳格 | 所有含表格的模板 |
-| Editing Toolbar | 富文本工具栏，快速加粗/高亮等 | 日常编辑 |
-| Dynamic Outline | 右侧显示当前笔记大纲，快速跳转 | 长篇笔记，如书籍、课程模板 |
-| PDF Plus | 增强 PDF 阅读，支持高亮并链接回笔记 | 06-书籍、21-文章 模板 |
-| Recent Files | 侧边栏显示最近打开的文件 | 日常导航 |
-| Mousewheel Image Zoom | 滚轮缩放图片 | 含图片的笔记 |
-| Image Toolkit | 点击图片全屏查看、旋转 | 含图片的笔记 |
-| Minimal Settings | 调整 Minimal 主题的布局和字体 | 外观配置 |
-| Style Settings | 细粒度调整主题 CSS 变量 | 外观配置 |
+| 插件                    | 作用                        | 配合模板                             |
+| --------------------- | ------------------------- | -------------------------------- |
+| Templater             | 模板引擎，处理 `<% %>` 语法自动填入日期等 | 所有模板                             |
+| Dataview              | 将笔记当数据库查询，生成动态列表/表格       | 概念、文章、项目等含 `dataview` 块的模板       |
+| Tasks                 | 跨笔记管理任务，支持截止日期、优先级        | 日志、项目、旅行模板中的 `- [ ]` 任务          |
+| Calendar              | 日历视图，点击日期快速创建/跳转每日笔记      | 01-日志 分类                         |
+| Excalidraw            | 手绘白板，可嵌入笔记                | 项目、概念模板中用 `![[图.excalidraw]]` 嵌入 |
+| obsidian-git          | 自动备份 vault 到 Git 仓库       | 全局，无需手动操作                        |
+| Table Editor          | 表格可视化编辑，Tab 键跳格           | 所有含表格的模板                         |
+| Editing Toolbar       | 富文本工具栏，快速加粗/高亮等           | 日常编辑                             |
+| Dynamic Outline       | 右侧显示当前笔记大纲，快速跳转           | 长篇笔记，如书籍、课程模板                    |
+| PDF Plus              | 增强 PDF 阅读，支持高亮并链接回笔记      | 06-书籍、21-文章 模板                   |
+| Recent Files          | 侧边栏显示最近打开的文件              | 日常导航                             |
+| Mousewheel Image Zoom | 滚轮缩放图片                    | 含图片的笔记                           |
+| Image Toolkit         | 点击图片全屏查看、旋转               | 含图片的笔记                           |
+| Minimal Settings      | 调整 Minimal 主题的布局和字体       | 外观配置                             |
+| Style Settings        | 细粒度调整主题 CSS 变量            | 外观配置                             |
 
 ---
 
