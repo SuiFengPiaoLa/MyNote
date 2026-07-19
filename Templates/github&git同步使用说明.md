@@ -8,7 +8,7 @@
  >2.下载[obdidian官网](https://obsidian.md/download)))和安装obsidian软件。
  >3.注册和登录github([GitHub](https://github.com/))
 
-
+**github**
 **第一步：配置 Templater(关闭安全模式)**
 
 1. 设置 → Templater → 模板文件夹路径，填入各分类文件夹（或统一放入一个 `Templates` 文件夹）
