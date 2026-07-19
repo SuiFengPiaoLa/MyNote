@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "157ef49e23fe1198",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2a71c0e59eeffb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4167c8b76f9e0d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/12 - 联系/12.1 - 联系方式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.1 - 联系方式"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb7177e3b7bdd7f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc07ff38863c8417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d7f8e15b74685a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "07dc21fa0017a446",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "欢迎",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "93689ab823788708",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0adbb28b8040d138",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9b3c19c9ab66683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8ac192a6d1142a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/12 - 联系/12.1 - 联系方式.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "12.1 - 联系方式 的反向链接列表"
+            }
+          },
+          {
+            "id": "a59f84179e8ba435",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "fe263f71fa0559fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "17ec949a899c30c4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "e1cbbe92d2cb9e63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "4167c8b76f9e0d02",
+  "lastOpenFiles": [
+    "Templates/15 - 公司/15.1 - 公司.md",
+    "Templates/17 - 单词词典/17.1 - 单词词典.md",
+    "Templates/06 - 书籍/6.1 - 书籍.md",
+    "Templates/05 - 决策制定/5.1 - 决策制定.md",
+    "Templates/02 - 列表/2.1 - 列表.md",
+    "Templates/19 - 索引/99.1 - 索引.md",
+    "Templates/27 - 灵感/27.1 - 灵感.md",
+    "Templates/21 - 文章/21.1 - 文章.md",
+    "我的生活",
+    "我的工作",
+    "未命名/未命名",
+    "我的学习",
+    "我的日志",
+    "Templates/日志",
+    "欢迎.md",
+    "2026-05-05.md",
+    "Templates/assets/截图_17750059227264.png",
+    "Templates/assets/截图_17750052424850.png",
+    "Templates/assets/截图_17750052275833.png",
+    "Templates/assets/截图_17750052019293.png",
+    "Templates/assets/截图_17750051724759.png",
+    "Templates/assets",
+    "Templates/27 - 灵感/27.2 - 灵感碎片捕获网.md",
+    "Templates/27 - 灵感",
+    "Templates/26 - 问题解决/26.2 - 5Why根因分析模板.md",
+    "Templates/26 - 问题解决/26.1 - 问题解决.md",
+    "Templates/26 - 问题解决",
+    "Templates/25 - 旅行/25.1 - 旅行.md",
+    "Templates/25 - 旅行",
+    "Templates/24 - 财务/24.1 - 月度财务.md",
+    "Templates/23 - 健康/23.1 - 健康记录.md",
+    "Templates/22 - 播客/22.1 - 播客.md",
+    "Templates/20 - 概念/20.2 - 核心概念原理卡片.md",
+    "Templates/20 - 概念/20.1 - 概念.md",
+    "Templates/18 - 地理/18.3 - 位置.md",
+    "Templates/18 - 地理/18.2 - 城市.md",
+    "Templates/18 - 地理/18.1 - 国家.md",
+    "Templates/16 - 投资/16.1 - 股票.md",
+    "Templates/15 - 公司/15.4 - OKR.md",
+    "Templates/15 - 公司/15.3 - 部门.md",
+    "Templates/15 - 公司/15.2 - 公司_V2.md"
+  ]
+}
