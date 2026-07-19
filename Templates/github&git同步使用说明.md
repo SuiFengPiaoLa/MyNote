@@ -8,12 +8,12 @@
  >2.下载[obdidian官网](https://obsidian.md/download)))和安装obsidian软件。
  >3.注册和登录github([GitHub](https://github.com/))
 
-### 1.从github/gitee仓库推入本地电脑
+### 1.从github/gitee仓库克隆本地电脑
 
  **github：cmd：git clone https://github.com/SuiFengPiaoLa/MyNote
  
  **gitee:  cmd：git clone https://gitee.com/suifengpiaola/mynote
-### 2.从本地电脑更新到github/gitee
+### 2.从本地电脑到github/gitee
 
  **github：cmd：git clone https://github.com/SuiFengPiaoLa/MyNote
  
