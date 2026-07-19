@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/使用说明.md",
+                "file": "Templates/github&git同步使用说明.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用说明"
+              "title": "github&git同步使用说明"
             }
           }
         ],
@@ -196,6 +196,9 @@
   },
   "active": "4167c8b76f9e0d02",
   "lastOpenFiles": [
+    "Templates/assets/截图_17750051724759.png",
+    "Templates/github&git同步使用说明.md",
+    "Templates/使用说明.md",
     "Templates/06 - 书籍/6.2 - 文献笔记.md",
     "未命名.canvas",
     "Templates/06 - 书籍/6.1 - 书籍.md",
@@ -221,7 +224,6 @@
     "Templates/assets/截图_17750052424850.png",
     "Templates/assets/截图_17750052275833.png",
     "Templates/assets/截图_17750052019293.png",
-    "Templates/assets/截图_17750051724759.png",
     "Templates/assets",
     "Templates/27 - 灵感/27.2 - 灵感碎片捕获网.md",
     "Templates/27 - 灵感",
@@ -234,8 +236,6 @@
     "Templates/20 - 概念/20.2 - 核心概念原理卡片.md",
     "Templates/20 - 概念/20.1 - 概念.md",
     "Templates/18 - 地理/18.3 - 位置.md",
-    "Templates/18 - 地理/18.2 - 城市.md",
-    "Templates/18 - 地理/18.1 - 国家.md",
-    "Templates/16 - 投资/16.1 - 股票.md"
+    "Templates/18 - 地理/18.2 - 城市.md"
   ]
 }
