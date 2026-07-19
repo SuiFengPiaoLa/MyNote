@@ -5,9 +5,9 @@
 
 > [!info] 前置条件
  >1.下载[git官网]([Git](https://git-scm.com/))和安装git。
- >2.xia
- >2.注册和登录github
- 
+ >2.下载[obdidian官网]([Git](https://git-scm.com/))和安装obsidian软件。
+ >3.注册和登录github([GitHub](https://github.com/))
+
 
 **第一步：配置 Templater(关闭安全模式)**
 
